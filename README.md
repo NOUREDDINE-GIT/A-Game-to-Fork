@@ -55,4 +55,10 @@ A continuación explico cómo he creado y gestionado mi versión del proyecto pa
 
 Con esta actualización, el juego ahora cuenta con un **sistema de puntuación funcional** y una **mecánica de pérdida de vidas**, lo que añade profundidad y motivación al jugador.  
 Además, aprendí a usar GitKraken para gestionar ramas, commits y fusiones de una forma visual e intuitiva.
+---
+
+##  Capturas:
+
+<img width="1239" height="795" alt="Screenshot 2025-11-07 at 16 18 24" src="https://github.com/user-attachments/assets/771ca799-142d-4955-b2a9-88d30e9d967d" />
+
  
