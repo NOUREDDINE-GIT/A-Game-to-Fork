@@ -68,8 +68,12 @@ Además, aprendí a usar GitKraken para gestionar ramas, commits y fusiones de u
 <img width="392" height="795" alt="Screenshot 2025-11-07 at 16 39 49" src="https://github.com/user-attachments/assets/e73378b9-6e91-4975-a97f-0c8ba0727c4f" />
 <img width="638" height="795" alt="Screenshot 2025-11-07 at 16 53 49" src="https://github.com/user-attachments/assets/820056ba-22b9-4448-9ff7-3a2874b8569c" />
 <img width="1401" height="795" alt="Screenshot 2025-11-07 at 16 54 20" src="https://github.com/user-attachments/assets/c88468e1-916c-4327-b977-88c59e28c36d" />
+<<<<<<< HEAD
 
 
 
 
 >>>>>>> Addascoringsystem
+=======
+<img width="1242" height="795" alt="Screenshot 2025-11-07 at 17 49 42" src="https://github.com/user-attachments/assets/234f19fc-00d8-4e6d-84f7-8b2d887ff741" />
+>>>>>>> origin/Addascoringsystem
